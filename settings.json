@@ -1,0 +1,4 @@
+{
+  "time": "8:00 PM",
+  "cronExpression": "0 0 20 * * *"
+}
