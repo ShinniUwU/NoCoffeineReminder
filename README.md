@@ -37,7 +37,7 @@ NoCoffeeInReminder is a simple reminder tool designed to help you remember when 
 
 4. Run the application:
     ```bash
-    node nocoffeinereminder.js
+    npx tsx src/index.ts
     ```
 
 ## Usage
@@ -64,7 +64,7 @@ When the program starts, you will be presented with a menu:
 
 1. Start the program:
     ```bash
-    node nocoffeinereminder.js
+    npx tsx src/index.ts
     ```
 
 2. You will be asked to enter a reminder time (e.g., `8:00 PM`).
